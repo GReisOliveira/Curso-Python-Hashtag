@@ -57,8 +57,8 @@ Desenvolvi uma aplicação web de chat integrando o modelo Gemini (Google Gen AI
 ## 📂 Estrutura do repositório
 
 Curso-Python-Hashtag/
-├── Auto/       # Primeiras automações
-├── Auto2/      # Automação de cadastro com PyAutoGUI
+├── Auto/       # Automação de cadastro com PyAutoGUI
+├── Auto2/      # Análise de dados com plotly
 ├── Auto3/      # Análise de dados e modelos preditivos
 ├── Auto4/      # Chatbot com IA e Streamlit
 ├── .gitignore
